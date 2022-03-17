@@ -6,7 +6,7 @@ This is the source code of our paper accepted by TrustCom2021: [Malware Classifi
 ```
 @inproceedings{wu2021malware,
   title={Malware Classification by Learning Semantic and Structural Features of Control Flow Graphs},
-  author={Wu, Bolun and Xu, Yuanhang and Zou, Futai},
+  author={Bolun Wu, Yuanhang Xu, Futai Zou},
   booktitle={2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)},
   pages={540--547},
   year={2021},
