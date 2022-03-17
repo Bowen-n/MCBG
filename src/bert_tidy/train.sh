@@ -1,0 +1,1 @@
+nohup python -u train.py -t /home/wubolun/data/malware/big2015/further/set_0.5_pair_30/normal_train.corpus -v /home/wubolun/data/malware/big2015/further/set_0.5_pair_30/normal_val.corpus -c /home/wubolun/data/malware/big2015/further/set_0.5_pair_30/normal.vocab -b 64 -m 0 > prebert.log 2>&1 &

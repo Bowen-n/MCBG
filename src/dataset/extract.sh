@@ -1,0 +1,1 @@
+nohup python -u extract_cfg.py > extract.log 2>&1 &
